@@ -1,0 +1,8 @@
+ENDORSED_DIRS="C\:\\apache-tomcat-7.0.88/common/endorsed"
+JDK_HOME=C\:\\Program Files (x86)\\Java\\jdk1.8.0_101
+LIBRARY_PATH="C\:\\Program Files (x86)\\Java\\jdk1.8.0_101\\bin;C\:\\apache-tomcat-7.0.88\\bin"
+SERVER_ENABLEMENT=true
+TOMCAT_BASE=C\:\\apache-tomcat-7.0.88
+TOMCAT_HOME=C\:\\apache-tomcat-7.0.88
+TOMCAT_TEMP=C\:\\apache-tomcat-7.0.88\\temp
+eclipse.preferences.version=1

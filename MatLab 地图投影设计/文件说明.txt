@@ -1,0 +1,15 @@
+文件说明： map_forword.m 函数文件， 等差分纬线多圆锥投影坐标变换
+           map_forword_zq.m函数文件， 正切差分纬线多圆锥投影坐标变换
+proj.m  脚本文件，读取shp进行以上函数坐标变换
+自定义投影 equalpolycon_candy.m    糖果状 多圆锥为基础
+equalpolycon_lati0.m      领结状 多圆锥为基础
+equalpolycon_pole_arc.m   奇怪的 多圆锥
+equalpolycon_pole_straightline   灯笼状 多圆锥基础
+equalpolycon              等差分纬线多圆锥投影（不知对不对）
+equalpolycon_polesetting.m  设定90度纬线然而没有作用和上一个一样
+equalpolycon_zq.m      失败的正切差分纬线多圆锥投影
+gnomonic_triat.m        适合中国的三叶梅花伪方位投影
+gnomonic_atlantic.m     适合大西洋的伪方位投影
+quartic_sanson.m        桑逊投影 正弦曲线等面积伪圆柱投影
+projection_choose.m     投影选择文件
+应用读取shp文件对地图x、y坐标进行转换，变成等差分纬线多圆锥投影

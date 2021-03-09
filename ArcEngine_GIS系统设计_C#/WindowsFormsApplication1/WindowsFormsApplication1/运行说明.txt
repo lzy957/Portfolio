@@ -1,0 +1,12 @@
+编写环境
+OS：Windows2017		 IDE：VS2010
+注意配置DevComponents.DotNetBar2.dll库
+
+运行即出现主页面
+路径分析为Road GeoAnalysis
+添加数据 geo.mdb
+BarChart 添加数据 shixi2.mxd
+
+其他功能请尝试
+文件默认路径可能会出错 请更改
+刘子煜 2015301110036
